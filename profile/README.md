@@ -6,5 +6,5 @@ Interface can be learned as well as interface optimization.
 
 Literally a picture. 
 
-![picture](./picture.png)
+![picture](https://github.com/learnedinterfaces/.github/blob/main/profile/picture.png)
 
