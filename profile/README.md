@@ -6,5 +6,5 @@ Interface can be learned as well as interface optimization.
 
 Literally a picture. 
 
-![](picture.png)
+![picture](./picture.png)
 
